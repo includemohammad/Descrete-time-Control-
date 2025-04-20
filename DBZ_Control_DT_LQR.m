@@ -1,5 +1,5 @@
 % =========================================================================
-%  Self-Organizing Map (SOM) Neural Network
+% LQR Problem in  DT 
 %  Author      : Mohammad Dehbozorgi (MO.DBZ)
 %  Created on  : 1404/01/31 (Persian Calendar)
 %  Updated on  : 2025/04/20
